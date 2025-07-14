@@ -100,5 +100,3 @@ To run this project yourself, follow these steps:
 ├── .gitignore               # Files to be ignored by Git
 ├── README.md                # This file
 └── requirements.txt         # Python dependencies
-```
-
