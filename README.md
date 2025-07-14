@@ -101,6 +101,4 @@ To run this project yourself, follow these steps:
 ├── README.md                # This file
 └── requirements.txt         # Python dependencies
 ```
-# Galaxy_Classification
-# Galaxy_Classification
-# galaxy-classifier-showcase
+
